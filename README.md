@@ -11,6 +11,7 @@
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
 ##
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=juanribeiro1&show_icons=true&theme=tokyonight&hide_rank=true"/>
