@@ -5,7 +5,7 @@
 - 🤩 **My hobbies are cooking, play video games and gym**
 ##
 <div>
-<img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align ="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align ="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
@@ -16,5 +16,9 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=juanribeiro1&show_icons=true&theme=tokyonight&hide_rank=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanribeiro1&theme=tokyonight"/>
+</div>
+
+##
+<div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanribeiro1&repo=cs&show_icons=true&theme=github_dark"/>
 </div>
