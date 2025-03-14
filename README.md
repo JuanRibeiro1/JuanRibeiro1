@@ -15,7 +15,7 @@
 ##
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=juanribeiro1&show_icons=true&theme=tokyonight&hide_rank=true"/>
-<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanribeiro1&theme=tokyonight"/>
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanribeiro1&theme=tokyonight"/>
 </div>
 
 ##
