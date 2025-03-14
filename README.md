@@ -19,7 +19,3 @@
 </div>
 
 ##
-<div>
-<img width="42%" src="https://github.com/JuanRibeiro1/JuanRibeiro1"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=juanribeiro1&repo=cs&show_icons=true&theme=github_dark"/>
-</div>
