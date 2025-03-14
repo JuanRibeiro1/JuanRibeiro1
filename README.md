@@ -15,11 +15,11 @@
 
 ##
 <div>
-<img align ="left" height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=juanribeiro1&show_icons=true&theme=tokyonight&hide_rank=true"/>
-<img align ="left" height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanribeiro1&theme=tokyonight"/>
+<img align ="center" height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=juanribeiro1&show_icons=true&theme=tokyonight&hide_rank=true"/>
+<img align ="center" height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanribeiro1&theme=tokyonight"/>
 </div>
 
-##
+
 <h2> Contact with me </h2>
 
 <div>
