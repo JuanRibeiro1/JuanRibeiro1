@@ -1,4 +1,4 @@
-## Hi there 👋, **Juan Ribeiro0** here!
+## Hi there 👋, **Juan Ribeiro** here!
 
 - 🔭 **I’m currently studying system information**
 - 📕 **I’m currently learning python, c#, javascript**
@@ -11,8 +11,9 @@
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-          
-          
-          
-          
-          
+##
+<div>
+https://github-readme-stats.vercel.app/api?username=juanribeiro1&show_icons=true&theme=tokyonight&hide_rank=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=juanribeiro1
+https://github-readme-stats.vercel.app/api/pin/?username=juanribeiro1&repo=cs&show_icons=true&theme=github_dark
+</div>
