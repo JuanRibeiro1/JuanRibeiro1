@@ -3,7 +3,7 @@
 - 🔭 **I’m currently studying system information**
 - 📕 **I’m currently learning python, c#, javascript**
 - 🤩 **My hobbies are cooking, play video games and gym**
-
+##
 <div>
 <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align ="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
